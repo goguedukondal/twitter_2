@@ -1,0 +1,29 @@
+.Login_Container{
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
+    margin: 10vh auto;
+    gap: 3vh;
+    padding: 4vh;
+    border-radius: 12px;
+    justify-content: center;
+    /* align-items: center; */
+    padding-left: 4vw;
+    box-shadow: 0px 0px 10px black;
+}
+.header{
+    color: #50b7f5;
+}
+.loginButton{
+    color: #50b7f5;
+   width: 8vw;
+    padding:1vh;
+    cursor: pointer;
+}
+label{
+    color: green;
+}
+input{
+    width: 20vw;
+    height: 3vh;
+}
